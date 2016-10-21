@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{918592AE-932F-A209-010C-419D064FEC84}") = "Canarias", "Assembly-CSharp-firstpass.csproj", "{8765E962-B9B4-3A68-B000-A6C7AF47DD59}"
+EndProject
+Project("{918592AE-932F-A209-010C-419D064FEC84}") = "Canarias", "Assembly-CSharp.csproj", "{C04084E3-F0B1-3B40-7017-71ABC0594E36}"
+EndProject
+Project("{918592AE-932F-A209-010C-419D064FEC84}") = "Canarias", "Assembly-CSharp-Editor.csproj", "{92EFE3D5-3F03-E97F-A6EC-8F3A944981F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8765E962-B9B4-3A68-B000-A6C7AF47DD59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8765E962-B9B4-3A68-B000-A6C7AF47DD59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8765E962-B9B4-3A68-B000-A6C7AF47DD59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8765E962-B9B4-3A68-B000-A6C7AF47DD59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C04084E3-F0B1-3B40-7017-71ABC0594E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C04084E3-F0B1-3B40-7017-71ABC0594E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C04084E3-F0B1-3B40-7017-71ABC0594E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C04084E3-F0B1-3B40-7017-71ABC0594E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92EFE3D5-3F03-E97F-A6EC-8F3A944981F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EFE3D5-3F03-E97F-A6EC-8F3A944981F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EFE3D5-3F03-E97F-A6EC-8F3A944981F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EFE3D5-3F03-E97F-A6EC-8F3A944981F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
